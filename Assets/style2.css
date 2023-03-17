@@ -1,0 +1,50 @@
+:root {
+    --pad: #d7a979;
+    --bg:#826649; 
+    --text:#2d2319;
+    --hover:#496582;
+}
+
+.btn-group {
+    display:flex;
+    justify-content:center;
+    border-top-right-radius: 12px;
+}
+.btn {
+    border-style:none;
+    background: var(--bg);
+    
+}
+.carousel0item a .btn-somewhere {
+    background:;
+}
+.btn:hover {
+    background-color: var(--hover);
+    transition: 0.5s;
+}
+.card {
+    background-color:var(--pad);
+}
+.navbar {
+    background-color:var(--pad);
+}
+.nav-link {
+    font-size:20px;
+}
+.textcard {
+    color:;
+}
+h5 p a{
+    color:var(--text);
+}
+h3 {
+    background:white;
+}
+.container .row {
+    display:block;
+    justify-content:center;
+    
+}
+.grid {
+    background-color:var(--pad);
+}
